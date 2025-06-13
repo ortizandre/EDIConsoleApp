@@ -1,0 +1,34 @@
+# Visual Studio files
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+*.psmdcp
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.cache
+*.ide
+
+# OS-specific files
+Thumbs.db
+.DS_Store
+
+# Ignore local configuration files
+appsettings.*.json
